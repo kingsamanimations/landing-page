@@ -1,13 +1,8 @@
 # landing-page
 
-This is my demo landing page for a random website. This is made with the web development tools:
+This is my demo landing page for a cake-themed website. This is made with the web development tools:
 HTML
 CSS
 
 
-<div class="note">
-    <h3>This is an inspiring quote, or a testimonal from a customer. Maybe it's just filling up, or maybe people will actually read it. Who knows? All I know is that it looks nice</h3>
-    <div class="p-3">
-        <p>Thor - god of thunder</p>
-    </div>
-</div>
+The design of a cake always matters. It shows how clean it is. It's theme shows the type of person it's for. There's room for creativity in cake decorating. And it should have perfect quantities of ingredients! - King Sam (Me)
