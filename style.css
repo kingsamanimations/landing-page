@@ -173,6 +173,12 @@ h4 {
   display: flex;
 }
 
+h1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
 button.btn-second-button {
   border: 1px solid #ffffff;
   border-radius: 10px;
